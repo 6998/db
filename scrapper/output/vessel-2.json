@@ -1,0 +1,452 @@
+[
+  {
+    "mmsi": "2278000",
+    "vessel": "PORT DE CALAIS",
+    "imo": "0",
+    "callsign": "CALAISP",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2288 2313 2843"
+  },
+  {
+    "mmsi": "2320208",
+    "vessel": "LOMOND",
+    "imo": "0",
+    "callsign": "",
+    "destination": "LOMOND FIELD",
+    "lastReport": "24-02-2019 19:35 UTC",
+    "currentLocation": "2063 2117 2174"
+  },
+  {
+    "mmsi": "2339002",
+    "vessel": "NCI NELLS POINT",
+    "imo": "0",
+    "callsign": "?",
+    "destination": "01446 420746 VHF65",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2333"
+  },
+  {
+    "mmsi": "2339003",
+    "vessel": "RNLI COWES",
+    "imo": "0",
+    "callsign": "?",
+    "destination": "01983 299387",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2333"
+  },
+  {
+    "mmsi": "2339004",
+    "vessel": "NCI TORBAY",
+    "imo": "0",
+    "callsign": "?",
+    "destination": "01803 411145 VHF65",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2333"
+  },
+  {
+    "mmsi": "2424114",
+    "vessel": "SR.IFNI",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:19 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "2447004",
+    "vessel": "V.D. GRAAF SR",
+    "imo": "0",
+    "callsign": "PH8240",
+    "destination": "ROTTERDAM",
+    "lastReport": "24-02-2019 19:35 UTC",
+    "currentLocation": "2291"
+  },
+  {
+    "mmsi": "2470087",
+    "vessel": "MILAZZO PORT INFORMR",
+    "imo": "0",
+    "callsign": "",
+    "destination": "?",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2189"
+  },
+  {
+    "mmsi": "2609076",
+    "vessel": "ANIMA+SVAD4",
+    "imo": "0",
+    "callsign": "YP3252",
+    "destination": "CONSTANTA",
+    "lastReport": "24-02-2019 19:34 UTC",
+    "currentLocation": "2328"
+  },
+  {
+    "mmsi": "3160184",
+    "vessel": "WINCHELSEA CONTROL",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2955"
+  },
+  {
+    "mmsi": "3669999",
+    "vessel": "V.A.WHITE POINT",
+    "imo": "0",
+    "callsign": "",
+    "destination": "MARINA DEL REY",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2797"
+  },
+  {
+    "mmsi": "3689001",
+    "vessel": "SKULL CREEK MARINA",
+    "imo": "0",
+    "callsign": "?",
+    "destination": "TEL: (843) 681-8436",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2333"
+  },
+  {
+    "mmsi": "4280052",
+    "vessel": "HADERA PORT",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:35 UTC",
+    "currentLocation": "2283"
+  },
+  {
+    "mmsi": "4294568",
+    "vessel": "BRASIL",
+    "imo": "0",
+    "callsign": "DA5623",
+    "destination": "",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2398 2175"
+  },
+  {
+    "mmsi": "4324385",
+    "vessel": "CORSO",
+    "imo": "0",
+    "callsign": "PD2177",
+    "destination": "(.5,,)",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2236"
+  },
+  {
+    "mmsi": "5631101",
+    "vessel": "PSAB",
+    "imo": "0",
+    "callsign": "TEST1",
+    "destination": "TEST HARBOR",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2519 2438 2088"
+  },
+  {
+    "mmsi": "5631127",
+    "vessel": "POCC VISTA",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2438 2088"
+  },
+  {
+    "mmsi": "5958574",
+    "vessel": "JANNES VAN CAMPEN",
+    "imo": "0",
+    "callsign": "PE6736",
+    "destination": "",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2136 2652"
+  },
+  {
+    "mmsi": "7444447",
+    "vessel": "SABA",
+    "imo": "0",
+    "callsign": "PC4196",
+    "destination": "NEUSS",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2623"
+  },
+  {
+    "mmsi": "20202020",
+    "vessel": "KM BERUDU_",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2438 2519 2088"
+  },
+  {
+    "mmsi": "20203760",
+    "vessel": "TJALK",
+    "imo": "0",
+    "callsign": "PH9489",
+    "destination": "NL EDM",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2459"
+  },
+  {
+    "mmsi": "21676634",
+    "vessel": "AJUG",
+    "imo": "0",
+    "callsign": "DD6281",
+    "destination": "HAMBURG",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2126 2603 2577"
+  },
+  {
+    "mmsi": "24935500",
+    "vessel": "SEINE COMTESSE",
+    "imo": "0",
+    "callsign": "HA4210",
+    "destination": "ROUEN",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2178 2093 2428 2335"
+  },
+  {
+    "mmsi": "25000116",
+    "vessel": "CELTIC SUN",
+    "imo": "0",
+    "callsign": "EI2048",
+    "destination": "",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2150 2321"
+  },
+  {
+    "mmsi": "26008890",
+    "vessel": "JOFFRE",
+    "imo": "0",
+    "callsign": "",
+    "destination": "BOUAFLES",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2156"
+  },
+  {
+    "mmsi": "28164626",
+    "vessel": "ESPERANTO",
+    "imo": "0",
+    "callsign": "PE3549",
+    "destination": "ROTTERDAM",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2241 2642 2392"
+  },
+  {
+    "mmsi": "31128327",
+    "vessel": "DEVYANTA",
+    "imo": "0",
+    "callsign": "PE3236",
+    "destination": "BELA*\\",
+    "lastReport": "24-02-2019 19:29 UTC",
+    "currentLocation": "2559"
+  },
+  {
+    "mmsi": "32767156",
+    "vessel": "DE AK0",
+    "imo": "0",
+    "callsign": "PI6555",
+    "destination": "MA",
+    "lastReport": "24-02-2019 19:33 UTC",
+    "currentLocation": "2077 2097"
+  },
+  {
+    "mmsi": "44750019",
+    "vessel": "LIBRA",
+    "imo": "0",
+    "callsign": "PB3902",
+    "destination": "HUCKINGEN",
+    "lastReport": "24-02-2019 19:32 UTC",
+    "currentLocation": "2241 2392"
+  },
+  {
+    "mmsi": "111503020",
+    "vessel": "VH-NPC",
+    "imo": "0",
+    "callsign": "VH-NPC",
+    "destination": "",
+    "lastReport": "24-02-2019 19:35 UTC",
+    "currentLocation": "2508 2070"
+  },
+  {
+    "mmsi": "200000000",
+    "vessel": "TEST",
+    "imo": "9861952",
+    "callsign": "",
+    "destination": "SEA TRIAL",
+    "lastReport": "24-02-2019 19:24 UTC",
+    "currentLocation": "2221 2517"
+  },
+  {
+    "mmsi": "200000008",
+    "vessel": "TEST",
+    "imo": "0",
+    "callsign": "",
+    "destination": "00",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2177"
+  },
+  {
+    "mmsi": "200011782",
+    "vessel": "SUN TAI ON 8",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2177"
+  },
+  {
+    "mmsi": "200012070",
+    "vessel": "MINLONGYU12345",
+    "imo": "0",
+    "callsign": "65469",
+    "destination": "",
+    "lastReport": "24-02-2019 19:31 UTC",
+    "currentLocation": "2193"
+  },
+  {
+    "mmsi": "200014011",
+    "vessel": "YUEHUILAI22287----",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:09 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "200017185",
+    "vessel": "SHUN LI 3",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:29 UTC",
+    "currentLocation": "2353"
+  },
+  {
+    "mmsi": "200020601",
+    "vessel": "MINLONGYU07865----",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:26 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "200021567",
+    "vessel": "ZHE PIN HU YU 00088",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2193"
+  },
+  {
+    "mmsi": "200022543",
+    "vessel": " (HH",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:19 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "200026877",
+    "vessel": "",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:21 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "200033161",
+    "vessel": "YUELAICAIYU12388",
+    "imo": "0",
+    "callsign": "12388",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2193 2598"
+  },
+  {
+    "mmsi": "200033203",
+    "vessel": "YUELAICA YU 08686",
+    "imo": "0",
+    "callsign": "08686",
+    "destination": "",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2598"
+  },
+  {
+    "mmsi": "200042456",
+    "vessel": "",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2193"
+  },
+  {
+    "mmsi": "200058279",
+    "vessel": "05138",
+    "imo": "0",
+    "callsign": "05138",
+    "destination": "",
+    "lastReport": "24-02-2019 19:15 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "200096563",
+    "vessel": "MIN LONG YU 60938",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:27 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "203541100",
+    "vessel": "LISA 4",
+    "imo": "0",
+    "callsign": "OEX5592",
+    "destination": "",
+    "lastReport": "24-02-2019 19:35 UTC",
+    "currentLocation": "2954"
+  },
+  {
+    "mmsi": "203999295",
+    "vessel": "SCHOENBRUNN",
+    "imo": "0",
+    "callsign": "OED9023",
+    "destination": "LINZ",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2798"
+  },
+  {
+    "mmsi": "203999297",
+    "vessel": "FREUDENAU",
+    "imo": "0",
+    "callsign": "OED2063",
+    "destination": "REGENSBURG",
+    "lastReport": "24-02-2019 19:35 UTC",
+    "currentLocation": "2645"
+  },
+  {
+    "mmsi": "203999298",
+    "vessel": "SIEBNERIN",
+    "imo": "0",
+    "callsign": "OED2064",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2645"
+  },
+  {
+    "mmsi": "203999303",
+    "vessel": "WIEN",
+    "imo": "0",
+    "callsign": "OED2164",
+    "destination": "HOME",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2399 2520"
+  }
+]

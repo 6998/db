@@ -1,0 +1,452 @@
+[
+  {
+    "mmsi": "244750250",
+    "vessel": "DEO-VOLENTE",
+    "imo": "0",
+    "callsign": "PD8734",
+    "destination": "AMELAND<->SCHIEDAM",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2065 2112"
+  },
+  {
+    "mmsi": "244750252",
+    "vessel": "UNION X",
+    "imo": "0",
+    "callsign": "PE2013",
+    "destination": "MOERDIJK",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2813 2709 2337 2185 2515"
+  },
+  {
+    "mmsi": "244750255",
+    "vessel": "BZN 4",
+    "imo": "0",
+    "callsign": "PF8832",
+    "destination": "AMSTERDAM",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2278 2515"
+  },
+  {
+    "mmsi": "244750256",
+    "vessel": "FLYING ENTERPRISE",
+    "imo": "0",
+    "callsign": "PF8929",
+    "destination": "AMSTERDAM",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2515"
+  },
+  {
+    "mmsi": "244750258",
+    "vessel": "JANNES LOVERS",
+    "imo": "0",
+    "callsign": "PF9020",
+    "destination": "AMSTERDAM",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2515 2278"
+  },
+  {
+    "mmsi": "244750259",
+    "vessel": "PIERRE  JANSSEN",
+    "imo": "0",
+    "callsign": "PF8968",
+    "destination": "FI-NISTERRE",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2515 2278"
+  },
+  {
+    "mmsi": "244750262",
+    "vessel": "TOON HERMANS",
+    "imo": "0",
+    "callsign": "PF9022",
+    "destination": "AMSTERDAM",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2278 2515"
+  },
+  {
+    "mmsi": "244750263",
+    "vessel": "WIM KAN",
+    "imo": "0",
+    "callsign": "PF9017",
+    "destination": "AMSTERDAM",
+    "lastReport": "24-02-2019 23:53 UTC",
+    "currentLocation": "2515"
+  },
+  {
+    "mmsi": "244750264",
+    "vessel": "WIM SONNEVELD",
+    "imo": "0",
+    "callsign": "PC5221",
+    "destination": "AMSTERDAM",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2256 2515 2278"
+  },
+  {
+    "mmsi": "244750272",
+    "vessel": "ARIE",
+    "imo": "0",
+    "callsign": "PE2716",
+    "destination": "VITRINEKAST",
+    "lastReport": "24-02-2019 23:51 UTC",
+    "currentLocation": "2590 2642"
+  },
+  {
+    "mmsi": "244750276",
+    "vessel": "ALBLAS",
+    "imo": "2324345",
+    "callsign": "PD2395",
+    "destination": "ZWIJNDRECHT:VEERPLEI",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2077 2241 2588 2835 2392 2642"
+  },
+  {
+    "mmsi": "244750286",
+    "vessel": "IJVEER 54",
+    "imo": "0",
+    "callsign": "PH2789",
+    "destination": "HEEN EN WEER",
+    "lastReport": "24-02-2019 23:52 UTC",
+    "currentLocation": "2256 2236 2278 2534 2459 2515"
+  },
+  {
+    "mmsi": "244750292",
+    "vessel": "CATHARINA II",
+    "imo": "0",
+    "callsign": "PD9406",
+    "destination": "ROTTERDAM",
+    "lastReport": "24-02-2019 23:50 UTC",
+    "currentLocation": "2548 2077 2096 2916 2140"
+  },
+  {
+    "mmsi": "244750293",
+    "vessel": "SAMENWERKING",
+    "imo": "0",
+    "callsign": "PD9486",
+    "destination": "RONDJE ZEILEN!",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2112"
+  },
+  {
+    "mmsi": "244750306",
+    "vessel": "BONAIRE",
+    "imo": "0",
+    "callsign": "PE4575",
+    "destination": "ROTTERDAM E PETROHAV",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2185"
+  },
+  {
+    "mmsi": "244750307",
+    "vessel": "COMMEARE",
+    "imo": "0",
+    "callsign": "PE3490",
+    "destination": "",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2126"
+  },
+  {
+    "mmsi": "244750309",
+    "vessel": "ARUBA",
+    "imo": "0",
+    "callsign": "PB8438",
+    "destination": "NIJMEGEN SPOORBRUG",
+    "lastReport": "24-02-2019 23:53 UTC",
+    "currentLocation": "2515 2236"
+  },
+  {
+    "mmsi": "244750310",
+    "vessel": "MADJOE",
+    "imo": "0",
+    "callsign": "PD5632",
+    "destination": "KALLO",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2347 2086 2435 2077 2392 2381 2588 2241"
+  },
+  {
+    "mmsi": "244750311",
+    "vessel": "BARBAROSSA",
+    "imo": "0",
+    "callsign": "PH3118",
+    "destination": "LWGW0103BDOCKX00012",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2256 2236 2459 2515"
+  },
+  {
+    "mmsi": "244750315",
+    "vessel": "DESAFIO",
+    "imo": "0",
+    "callsign": "PC2060",
+    "destination": "DEFRA03902BRDG100220",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2515 2185"
+  },
+  {
+    "mmsi": "244750316",
+    "vessel": "FIAT VOLUNTAS",
+    "imo": "0",
+    "callsign": "PH5046",
+    "destination": "DORDRECHT",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2791 2350"
+  },
+  {
+    "mmsi": "244750318",
+    "vessel": "CALYPSO",
+    "imo": "0",
+    "callsign": "PE3108",
+    "destination": "ROTTERDAM",
+    "lastReport": "24-02-2019 23:53 UTC",
+    "currentLocation": "2623"
+  },
+  {
+    "mmsi": "244750321",
+    "vessel": "EBEN HAEZER",
+    "imo": "0",
+    "callsign": "PD9776",
+    "destination": "",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2435 2588 2379 2163 2734"
+  },
+  {
+    "mmsi": "244750327",
+    "vessel": "ENTERPRISE",
+    "imo": "0",
+    "callsign": "PE4250",
+    "destination": "LOSPLAATS",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2409"
+  },
+  {
+    "mmsi": "244750341",
+    "vessel": "SAVONA",
+    "imo": "0",
+    "callsign": "PE4APY",
+    "destination": "ROTTERDAM BOTLEK",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2276 2548 2392 2831 2105 2241 2097 2077"
+  },
+  {
+    "mmsi": "244750349",
+    "vessel": " EENDRACHT",
+    "imo": "0",
+    "callsign": " PD4719",
+    "destination": "CYK",
+    "lastReport": "24-02-2019 23:51 UTC",
+    "currentLocation": "2590"
+  },
+  {
+    "mmsi": "244750350",
+    "vessel": "NOORDZEE",
+    "imo": "0",
+    "callsign": "PI2718",
+    "destination": "",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2549 2642 2276 2468"
+  },
+  {
+    "mmsi": "244750356",
+    "vessel": "VIRGINIA",
+    "imo": "0",
+    "callsign": "PD2582",
+    "destination": "BEAAA00023DOCKX00001",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2097 2392 2347 2642 2077 2549 2468"
+  },
+  {
+    "mmsi": "244750360",
+    "vessel": "BURLY",
+    "imo": "0",
+    "callsign": "PI7322",
+    "destination": "",
+    "lastReport": "24-02-2019 23:52 UTC",
+    "currentLocation": "2224 2086 2435"
+  },
+  {
+    "mmsi": "244750365",
+    "vessel": "AVENTURIER",
+    "imo": "0",
+    "callsign": "PD3387",
+    "destination": "ZOUTKAMP",
+    "lastReport": "24-02-2019 23:52 UTC",
+    "currentLocation": "2652 2065"
+  },
+  {
+    "mmsi": "244750379",
+    "vessel": "ATALANTA",
+    "imo": "0",
+    "callsign": "PD2094",
+    "destination": "NLGRO00006CITYX0002",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2568"
+  },
+  {
+    "mmsi": "244750389",
+    "vessel": "FORTUNA",
+    "imo": "0",
+    "callsign": "PF9743",
+    "destination": "ROTTERDAM",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2239"
+  },
+  {
+    "mmsi": "244750393",
+    "vessel": "MIDSLAND",
+    "imo": "0",
+    "callsign": "PG4564",
+    "destination": "HARLINGE TERSCHELLIN",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2065 2112"
+  },
+  {
+    "mmsi": "244750399",
+    "vessel": "LIBERTE",
+    "imo": "0",
+    "callsign": "PI3566",
+    "destination": "",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2709 2185"
+  },
+  {
+    "mmsi": "244750401",
+    "vessel": "ANNA ARINA",
+    "imo": "0",
+    "callsign": "PE3968",
+    "destination": "",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2241 2642 2392"
+  },
+  {
+    "mmsi": "244750408",
+    "vessel": "HINTE",
+    "imo": "0",
+    "callsign": "PI3863",
+    "destination": "URK",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2256"
+  },
+  {
+    "mmsi": "244750409",
+    "vessel": "APRIL",
+    "imo": "0",
+    "callsign": "PI6201",
+    "destination": "MORGEN",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2515"
+  },
+  {
+    "mmsi": "244750412",
+    "vessel": "TWILLIS",
+    "imo": "0",
+    "callsign": "PD2109",
+    "destination": "",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2244"
+  },
+  {
+    "mmsi": "244750414",
+    "vessel": "GEPETTO",
+    "imo": "0",
+    "callsign": "PE8949",
+    "destination": "WALSOORDEN",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2515"
+  },
+  {
+    "mmsi": "244750423",
+    "vessel": "STOERE EENVOUD",
+    "imo": "0",
+    "callsign": "PH7495",
+    "destination": "THOLEN",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2185"
+  },
+  {
+    "mmsi": "244750424",
+    "vessel": "AQUA FERRO",
+    "imo": "0",
+    "callsign": "PE4757",
+    "destination": "",
+    "lastReport": "24-02-2019 23:49 UTC",
+    "currentLocation": "2300"
+  },
+  {
+    "mmsi": "244750425",
+    "vessel": "WILLEMINA PIETERNELL",
+    "imo": "0",
+    "callsign": "PG7838",
+    "destination": "YERSEKE",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2185"
+  },
+  {
+    "mmsi": "244750429",
+    "vessel": "TRANSITORIUS",
+    "imo": "0",
+    "callsign": "PC5457",
+    "destination": "DUISBURG",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2409"
+  },
+  {
+    "mmsi": "244750433",
+    "vessel": "IDA3",
+    "imo": "0",
+    "callsign": "PG4651",
+    "destination": "",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2515 2236"
+  },
+  {
+    "mmsi": "244750434",
+    "vessel": "STEVEN1",
+    "imo": "0",
+    "callsign": "PD2746",
+    "destination": "",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2515 2236"
+  },
+  {
+    "mmsi": "244750435",
+    "vessel": "HARMONIE",
+    "imo": "0",
+    "callsign": "PD2160",
+    "destination": "HARDINXVELD",
+    "lastReport": "24-02-2019 23:55 UTC",
+    "currentLocation": "2379 2734"
+  },
+  {
+    "mmsi": "244750439",
+    "vessel": "CALA  JONDAL",
+    "imo": "0",
+    "callsign": "PD5049",
+    "destination": "VOORUIT ,__",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2623"
+  },
+  {
+    "mmsi": "244750445",
+    "vessel": "FLUVIUS",
+    "imo": "0",
+    "callsign": "PB8630",
+    "destination": "BOCHOLT",
+    "lastReport": "24-02-2019 23:54 UTC",
+    "currentLocation": "2483"
+  },
+  {
+    "mmsi": "244750448",
+    "vessel": "DUTCH PRINCESS",
+    "imo": "0",
+    "callsign": "PE7455",
+    "destination": "ANTWERPEN",
+    "lastReport": "24-02-2019 23:53 UTC",
+    "currentLocation": "2145 2300"
+  },
+  {
+    "mmsi": "244750462",
+    "vessel": "BONNATURE",
+    "imo": "0",
+    "callsign": "PF3298",
+    "destination": "",
+    "lastReport": "24-02-2019 23:53 UTC",
+    "currentLocation": "2515"
+  }
+]

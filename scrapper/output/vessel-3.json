@@ -1,0 +1,452 @@
+[
+  {
+    "mmsi": "203999323",
+    "vessel": "POLIZEI WIEN",
+    "imo": "0",
+    "callsign": "OED2210",
+    "destination": "WIEN",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2399 2520"
+  },
+  {
+    "mmsi": "203999325",
+    "vessel": "ADMIRAL TEGETTHOFF",
+    "imo": "0",
+    "callsign": "OED3061",
+    "destination": "WIEN GSTEIN WIEN",
+    "lastReport": "24-02-2019 19:35 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999327",
+    "vessel": "VINDOBONA",
+    "imo": "0",
+    "callsign": "OED3054",
+    "destination": "WIEN",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2520 2399"
+  },
+  {
+    "mmsi": "203999335",
+    "vessel": "AQUA TEAM",
+    "imo": "0",
+    "callsign": "OED2035",
+    "destination": "KORNEUBURG",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999337",
+    "vessel": "KAISERIN ELISABETH 2",
+    "imo": "0",
+    "callsign": "OED3922",
+    "destination": "WIEN-LLINZ",
+    "lastReport": "24-02-2019 19:33 UTC",
+    "currentLocation": "2798"
+  },
+  {
+    "mmsi": "203999339",
+    "vessel": "GREIFENSTEIN",
+    "imo": "0",
+    "callsign": "OED2027",
+    "destination": "BRATISLAVA",
+    "lastReport": "24-02-2019 19:33 UTC",
+    "currentLocation": "2485"
+  },
+  {
+    "mmsi": "203999342",
+    "vessel": "FEUERWEHR WIEN 2",
+    "imo": "0",
+    "callsign": "OED2321",
+    "destination": "VIENNA",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2399 2520"
+  },
+  {
+    "mmsi": "203999343",
+    "vessel": "TWIN CITY LINER 1",
+    "imo": "0",
+    "callsign": "OED9040",
+    "destination": "ROTTERDAM",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2645"
+  },
+  {
+    "mmsi": "203999348",
+    "vessel": "EISVOGEL",
+    "imo": "0",
+    "callsign": "OED2020",
+    "destination": "WIEN",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999350",
+    "vessel": "AURORA",
+    "imo": "0",
+    "callsign": "OED3107",
+    "destination": "BRATISLAVA",
+    "lastReport": "24-02-2019 19:32 UTC",
+    "currentLocation": "2485"
+  },
+  {
+    "mmsi": "203999351",
+    "vessel": "BLUE DANUBE",
+    "imo": "0",
+    "callsign": "OED2240",
+    "destination": "WIEN",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999352",
+    "vessel": "WACHAU",
+    "imo": "0",
+    "callsign": "OED3052",
+    "destination": "WIEN GREIFENST WIEN",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2520 2399"
+  },
+  {
+    "mmsi": "203999356",
+    "vessel": "SKORPION",
+    "imo": "0",
+    "callsign": "OEX4968",
+    "destination": "DK 5.7 LOBAU DK 5.7",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999358",
+    "vessel": "FREYENSTEIN",
+    "imo": "0",
+    "callsign": "OED2302",
+    "destination": "FREUDENAU.OW",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999364",
+    "vessel": "DOKW2",
+    "imo": "0",
+    "callsign": "OED2307",
+    "destination": "FREUDENAU OW",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2485 2399"
+  },
+  {
+    "mmsi": "203999365",
+    "vessel": "KREMS",
+    "imo": "0",
+    "callsign": "OED2308",
+    "destination": "FREUDENAU",
+    "lastReport": "24-02-2019 19:34 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999371",
+    "vessel": "TWIN CITY LINER 2",
+    "imo": "0",
+    "callsign": "OED9041",
+    "destination": "WIEN ROTTERDAM",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2645"
+  },
+  {
+    "mmsi": "203999373",
+    "vessel": "DTSG 1",
+    "imo": "0",
+    "callsign": "OED3002",
+    "destination": "WIEN",
+    "lastReport": "24-02-2019 19:33 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999376",
+    "vessel": "THEODOR KOERNER",
+    "imo": "0",
+    "callsign": "OED9020",
+    "destination": "ESTERGOM   PASSAU",
+    "lastReport": "24-02-2019 19:34 UTC",
+    "currentLocation": "2798"
+  },
+  {
+    "mmsi": "203999377",
+    "vessel": "EDUARD",
+    "imo": "0",
+    "callsign": "OED2224",
+    "destination": "",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2798"
+  },
+  {
+    "mmsi": "203999389",
+    "vessel": "DEGGENDORF",
+    "imo": "0",
+    "callsign": "OED9010",
+    "destination": "BAIJA",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2328"
+  },
+  {
+    "mmsi": "203999391",
+    "vessel": "INNSBRUCK",
+    "imo": "0",
+    "callsign": "OED3076",
+    "destination": "LINZ",
+    "lastReport": "24-02-2019 19:16 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "203999404",
+    "vessel": "DONAUPLUS",
+    "imo": "0",
+    "callsign": "OED2072",
+    "destination": "WIEN",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999412",
+    "vessel": "ARTHUR KASPAR",
+    "imo": "0",
+    "callsign": "OED3110",
+    "destination": "GREIFENSTEIN/FREUDEN",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999421",
+    "vessel": "PRIMADONNA",
+    "imo": "0",
+    "callsign": "OED3018",
+    "destination": "LINZ",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2798"
+  },
+  {
+    "mmsi": "203999426",
+    "vessel": "WIEN",
+    "imo": "0",
+    "callsign": "OED3050",
+    "destination": "WIEN",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2399 2520"
+  },
+  {
+    "mmsi": "203999427",
+    "vessel": "WIENTANK 1",
+    "imo": "0",
+    "callsign": "OED3012",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2399 2520"
+  },
+  {
+    "mmsi": "203999436",
+    "vessel": "RENAISSANCE",
+    "imo": "0",
+    "callsign": "OED3026",
+    "destination": "WIEN",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2399"
+  },
+  {
+    "mmsi": "203999445",
+    "vessel": "MS SISSI",
+    "imo": "0",
+    "callsign": "OED2002",
+    "destination": "LINZ",
+    "lastReport": "24-02-2019 19:32 UTC",
+    "currentLocation": "2798"
+  },
+  {
+    "mmsi": "203999485",
+    "vessel": "TWIN CITY LINER",
+    "imo": "0",
+    "callsign": "OED3085",
+    "destination": "VIENNA",
+    "lastReport": "24-02-2019 19:33 UTC",
+    "currentLocation": "2485 2399"
+  },
+  {
+    "mmsi": "204201240",
+    "vessel": "PESCATUM",
+    "imo": "0",
+    "callsign": "CUTA2",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2242 2059"
+  },
+  {
+    "mmsi": "204201270",
+    "vessel": "PEROLA DA PRAIA",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204206750",
+    "vessel": "BAIA DA MAIA",
+    "imo": "0",
+    "callsign": "CUCZ6",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204206760",
+    "vessel": "MESTRE SOARES",
+    "imo": "0",
+    "callsign": "CUCZ7",
+    "destination": "",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204208670",
+    "vessel": "GORETTI PERINHO",
+    "imo": "0",
+    "callsign": "CUDT9",
+    "destination": "",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204209890",
+    "vessel": "ANDRE E TIAGO",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204263000",
+    "vessel": "CRUSTACEO",
+    "imo": "0",
+    "callsign": "CURE8",
+    "destination": "SINES___",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2281"
+  },
+  {
+    "mmsi": "204287000",
+    "vessel": "REI DOS ACORES",
+    "imo": "0",
+    "callsign": "CUTE8",
+    "destination": "MACHICO MADEIRA",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204600002",
+    "vessel": "SAO MIG",
+    "imo": "7234961",
+    "callsign": "CSJV",
+    "destination": "PONTA DELGADA",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2242 2059"
+  },
+  {
+    "mmsi": "204600008",
+    "vessel": "PERO DE TEIVE",
+    "imo": "9011480",
+    "callsign": "CSJW",
+    "destination": "PONTA DELGADA",
+    "lastReport": "24-02-2019 19:36 UTC",
+    "currentLocation": "2059 2242"
+  },
+  {
+    "mmsi": "204601240",
+    "vessel": "ILHA DE SAO LUIS",
+    "imo": "9275816",
+    "callsign": "CSXR3",
+    "destination": "HORTA",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204671240",
+    "vessel": "CORAL DA HORTA",
+    "imo": "0",
+    "callsign": "CSXM2",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204671360",
+    "vessel": "DRAGOCIDENTAL",
+    "imo": "0",
+    "callsign": "CSYN4",
+    "destination": "",
+    "lastReport": "24-02-2019 19:35 UTC",
+    "currentLocation": "2059 2242"
+  },
+  {
+    "mmsi": "204701390",
+    "vessel": "GILBERTO MARIANO",
+    "imo": "9690494",
+    "callsign": "CSMG",
+    "destination": "HORTA/MADALENA/HORTA",
+    "lastReport": "24-02-2019 19:30 UTC",
+    "currentLocation": "2059"
+  },
+  {
+    "mmsi": "204709000",
+    "vessel": "CORVO",
+    "imo": "9381275",
+    "callsign": "CSBH",
+    "destination": "LISBOA",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2419 2252"
+  },
+  {
+    "mmsi": "204815000",
+    "vessel": "PARMA",
+    "imo": "9088926",
+    "callsign": "CUYH",
+    "destination": "",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2281"
+  },
+  {
+    "mmsi": "205008600",
+    "vessel": "TEXAS",
+    "imo": "9295309",
+    "callsign": "OT2365",
+    "destination": "ROTTERDAM",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2548 2555 2642 2105 2276 2077 2549 2468 2097"
+  },
+  {
+    "mmsi": "205010000",
+    "vessel": "MFV.Z700_BRAVEHEART",
+    "imo": "0",
+    "callsign": "OQBV",
+    "destination": "VISSEND",
+    "lastReport": "24-02-2019 19:38 UTC",
+    "currentLocation": "2843 2313 2292"
+  },
+  {
+    "mmsi": "205015300",
+    "vessel": "FOLIE",
+    "imo": "0",
+    "callsign": "OS3903",
+    "destination": "",
+    "lastReport": "24-02-2019 19:26 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "205017800",
+    "vessel": "EILAND",
+    "imo": "0",
+    "callsign": "OS7913",
+    "destination": "",
+    "lastReport": "24-02-2019 19:37 UTC",
+    "currentLocation": "2515 2292"
+  }
+]
