@@ -1,15 +1,16 @@
 const Crawler = require('crawler');
 const fs = require('fs');
 
-const baseUrl = 'http://www.aishub.net/vessels?&sort=mmsi';
+const baseUrl = 'http://www.aishub.net/stations?sort=SID';
 const MAX_PAGES = 100;
-let currentIndex = 18;
+let currentIndex = 5;
 
 const c = new Crawler({
   maxConnections: 10,
   rateLimit: 20000,
 
   callback: function(error, res, done) {
+    console.log("url", res.request.uri.href)
     const rowsData = [];
 
     if (error) {
@@ -17,32 +18,33 @@ const c = new Crawler({
     } else {
       var $ = res.$;
 
-      const rows = $('[data-key*="SITE"]');
+      const rows = $('table.dataTable tr');
       rows.each(function() {
         const $this = $(this);
-
         rowsData.push({
-          mmsi: $this.find('td:nth-child(1)').text(),
-          vessel: $this.find('td:nth-child(2)').text(),
-          imo: $this.find('td:nth-child(3)').text(),
-          callsign: $this.find('td:nth-child(4)').text(),
-          destination: $this.find('td:nth-child(5)').text(),
-          lastReport: $this.find('td:nth-child(6)').text(),
-          currentLocation: $this.find('td:nth-child(7)').text()
+          id: $this.find('td:nth-child(1)').text(),
+          status: $this.find('td:nth-child(2)').text(),
+          uptime: $this.find('td:nth-child(3)').text(),
+          country: $this.find('td:nth-child(4)').text(),
+          location: $this.find('td:nth-child(5)').text(),
+          ships: $this.find('td:nth-child(6)').text(),
+          distinct: $this.find('td:nth-child(7)').text()
         });
       });
     }
 
 
     if (currentIndex < MAX_PAGES) {
-      c.queue(`${baseUrl}&page=${currentIndex}`);
-      currentIndex++;
+			currentIndex++;
+			const url = `${baseUrl}&page=${currentIndex}`;
+      console.log("push url ", url)
+      c.queue(url);
     }
 
     console.log('complete page', currentIndex);
 
     fs.writeFile(
-      `output/vessel-${currentIndex - 1}.json`,
+      `output/ports-${currentIndex - 1}.json`,
       JSON.stringify(rowsData),
       'utf8',
       done

@@ -1,1 +1,452 @@
-[{"mmsi":"210230000","vessel":"PARAMAR","imo":"9190262","callsign":"P3ZD9","destination":"GB TIL/SE SOE","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2262"},{"mmsi":"210233000","vessel":"MYNIKA","imo":"9525613","callsign":"5BUB3","destination":"IMMINGHAM","lastReport":"24-02-2019 22:34 UTC","currentLocation":"2477"},{"mmsi":"210248000","vessel":"ASTRORUNNER","imo":"9349227","callsign":"C4RK2","destination":"PLGDY","lastReport":"24-02-2019 22:29 UTC","currentLocation":"2031"},{"mmsi":"210288000","vessel":"HAVEN","imo":"9526019","callsign":"5BAP3","destination":"JOHAN SVERDRUP","lastReport":"24-02-2019 22:30 UTC","currentLocation":"2117 2063 2174"},{"mmsi":"210300000","vessel":"ALBAYZIN","imo":"9304631","callsign":"5BLJ4","destination":"ESCDI","lastReport":"24-02-2019 22:11 UTC","currentLocation":""},{"mmsi":"210312000","vessel":"WEC MAJORELLE","imo":"9134153","callsign":"5BSJ3","destination":"PIRAEUS","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2367 2118 2226"},{"mmsi":"210318000","vessel":"LEENI","imo":"9377092","callsign":"C4LT2","destination":"MONTOIR","lastReport":"24-02-2019 22:16 UTC","currentLocation":""},{"mmsi":"210326000","vessel":"ODIN R","imo":"8422723","callsign":"P3GX7","destination":"GRENAA","lastReport":"24-02-2019 22:30 UTC","currentLocation":"2063 2117 2174"},{"mmsi":"210334000","vessel":"SEAWAY YUDIN","imo":"8219463","callsign":"5BYM2","destination":"LIMASSOL","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2654 2093 2843 2472 2522"},{"mmsi":"210363000","vessel":"LIA M","imo":"9525625","callsign":"5BUC3","destination":"KW SWK","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2703"},{"mmsi":"210369000","vessel":"EDT JANE","imo":"9491410","callsign":"5BXW3","destination":"EEMSHAVEN","lastReport":"24-02-2019 22:34 UTC","currentLocation":"2350"},{"mmsi":"210375000","vessel":"OLZA","imo":"8919843","callsign":"5BFZ4","destination":"GBHUL","lastReport":"24-02-2019 22:34 UTC","currentLocation":"2477"},{"mmsi":"210426000","vessel":"THETIS","imo":"8203141","callsign":"5BMW4","destination":"TURKU","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2388"},{"mmsi":"210434000","vessel":"SYLVE","imo":"8906286","callsign":"P3ZM8","destination":"RUKGD","lastReport":"24-02-2019 22:32 UTC","currentLocation":"2219"},{"mmsi":"210440000","vessel":"ARGONAUT1","imo":"8821826","callsign":"5BGB2","destination":"PAPENDRECHT","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2077 2642 2835 2241 2392"},{"mmsi":"210445000","vessel":"KAPRIFOL","imo":"9200081","callsign":"5BXX2","destination":"AMSTERDAM","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2011 2164 2063 2117 2174"},{"mmsi":"210459000","vessel":"RITA","imo":"9318931","callsign":"5BUV3","destination":"NOTAE","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2506 2221 2117 2063 2174"},{"mmsi":"210474000","vessel":"SWE BULK","imo":"9044932","callsign":"C4FJ2","destination":"KALMAR","lastReport":"24-02-2019 22:21 UTC","currentLocation":""},{"mmsi":"210481000","vessel":"CMA CGM SAMBHAR","imo":"9295969","callsign":"5BND2","destination":"FRLEH","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2178 2093 2335 2428"},{"mmsi":"210505000","vessel":"PENGALIA","imo":"9440588","callsign":"5BAP2","destination":"TILBURY","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2953 2843"},{"mmsi":"210523000","vessel":"CAUSEWAY","imo":"9653197","callsign":"5BVB3","destination":"VLISSINGEN","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2185 2404 2515"},{"mmsi":"210581000","vessel":"CAPE RACE","imo":"9601728","callsign":"5BRQ3","destination":"ES BCN","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2602"},{"mmsi":"210582000","vessel":"POLAR DUKE","imo":"9378204","callsign":"5BJL2","destination":"ALESUND","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2430 2174 2117 2063"},{"mmsi":"210594000","vessel":"ARIADNE","imo":"9413535","callsign":"5BSE4","destination":"SALAMIS","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2118 2367"},{"mmsi":"210605000","vessel":"ATLANTIC COAST","imo":"9129469","callsign":"5BQZ3","destination":"NLRTM","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2262"},{"mmsi":"210607000","vessel":"AMBER 1","imo":"9174713","callsign":"5BAR2","destination":"RU KGD","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2219"},{"mmsi":"210620000","vessel":"NORMAND TITUS","imo":"9575632","callsign":"5BVT3","destination":"GREAT YARMOUTH","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2953"},{"mmsi":"210638000","vessel":"PADEREWSKI","imo":"9731389","callsign":"5BMF4","destination":"PA CTB","lastReport":"24-02-2019 22:32 UTC","currentLocation":"2479"},{"mmsi":"210688000","vessel":"AMAZONITH","imo":"9293478","callsign":"5BXB3","destination":"NL RTM FOR ORDER","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2347 2077 2276 2961 2224 2468 2086 2435"},{"mmsi":"210727000","vessel":"SEA TIGER","imo":"9166376","callsign":"5BDQ3","destination":"LYNGDAL,NORWAY","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2117 2063 2174"},{"mmsi":"210754000","vessel":"ATLANTIC ISLAND","imo":"9259044","callsign":"C4VM2","destination":"MACAS","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2205"},{"mmsi":"210763000","vessel":"CRESTY","imo":"9637143","callsign":"5BZE3","destination":"QUEBEC","lastReport":"24-02-2019 22:27 UTC","currentLocation":"2627"},{"mmsi":"210776000","vessel":"EDT HERCULES","imo":"9491422","callsign":"5BAM4","destination":"EMDEN","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2728"},{"mmsi":"210853000","vessel":"KURLAND","imo":"9226803","callsign":"P3GW9","destination":"NQRRKQPING","lastReport":"24-02-2019 22:34 UTC","currentLocation":"2342"},{"mmsi":"210894000","vessel":"JOLANTA","imo":"9148257","callsign":"5BAY2","destination":"TALLINN","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2811 2388 2179"},{"mmsi":"210895000","vessel":"ANASA","imo":"9389215","callsign":"5BEL4","destination":"IN MDA","lastReport":"24-02-2019 22:29 UTC","currentLocation":"2649"},{"mmsi":"210903000","vessel":"JSP SLIDUR","imo":"9354416","callsign":"5BLE2","destination":"NL RTM","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2961 2097 2086 2185 2435 2276 2468"},{"mmsi":"210916000","vessel":"BUFFLEHEAD","imo":"9598294","callsign":"5BRB3","destination":"US MSY","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2951"},{"mmsi":"210925000","vessel":"BALTIC FULMAR","imo":"9313204","callsign":"5BSL4","destination":"ESGIJ","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2469"},{"mmsi":"210930000","vessel":"OSPREY","imo":"9700859","callsign":"5BAY4","destination":"UA ODS","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2401"},{"mmsi":"210933000","vessel":"NICOLEMY","imo":"9613094","callsign":"5BAE4","destination":"FOS","lastReport":"24-02-2019 22:30 UTC","currentLocation":"2038"},{"mmsi":"210943000","vessel":"MUSKY","imo":"9688855","callsign":"5BAW4","destination":"FI KTK","lastReport":"24-02-2019 22:34 UTC","currentLocation":"2049 2388"},{"mmsi":"210959000","vessel":"GUADALUPE","imo":"9330941","callsign":"C4FR2","destination":"MXPGO","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2601"},{"mmsi":"211002010","vessel":"ODIN 3","imo":"0","callsign":"","destination":"","lastReport":"24-02-2019 22:31 UTC","currentLocation":"2030 2436"},{"mmsi":"211014528","vessel":"EMTE","imo":"0","callsign":"DA4528","destination":"","lastReport":"24-02-2019 22:35 UTC","currentLocation":"2167"},{"mmsi":"211032980","vessel":"HT8","imo":"0","callsign":"DC2980","destination":"HAMBURG","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2126 2403 2738 2413 2577"},{"mmsi":"211034927","vessel":"LUNA","imo":"0","callsign":"DC4927","destination":"HSK","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2590"},{"mmsi":"211036232","vessel":"GABI R","imo":"0","callsign":"DC6232","destination":"SZCZECIN","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2043"},{"mmsi":"211064779","vessel":"KALOCSA","imo":"0","callsign":"WRP","destination":"KM240","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2328"},{"mmsi":"211087743","vessel":"BIRK.B","imo":"0","callsign":"","destination":"BERLIN","lastReport":"24-02-2019 22:36 UTC","currentLocation":"2914 2175 2398"}]
+[
+  {
+    "mmsi": "210230000",
+    "vessel": "PARAMAR",
+    "imo": "9190262",
+    "callsign": "P3ZD9",
+    "destination": "GB TIL/SE SOE",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2262"
+  },
+  {
+    "mmsi": "210233000",
+    "vessel": "MYNIKA",
+    "imo": "9525613",
+    "callsign": "5BUB3",
+    "destination": "IMMINGHAM",
+    "lastReport": "24-02-2019 22:34 UTC",
+    "currentLocation": "2477"
+  },
+  {
+    "mmsi": "210248000",
+    "vessel": "ASTRORUNNER",
+    "imo": "9349227",
+    "callsign": "C4RK2",
+    "destination": "PLGDY",
+    "lastReport": "24-02-2019 22:29 UTC",
+    "currentLocation": "2031"
+  },
+  {
+    "mmsi": "210288000",
+    "vessel": "HAVEN",
+    "imo": "9526019",
+    "callsign": "5BAP3",
+    "destination": "JOHAN SVERDRUP",
+    "lastReport": "24-02-2019 22:30 UTC",
+    "currentLocation": "2117 2063 2174"
+  },
+  {
+    "mmsi": "210300000",
+    "vessel": "ALBAYZIN",
+    "imo": "9304631",
+    "callsign": "5BLJ4",
+    "destination": "ESCDI",
+    "lastReport": "24-02-2019 22:11 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "210312000",
+    "vessel": "WEC MAJORELLE",
+    "imo": "9134153",
+    "callsign": "5BSJ3",
+    "destination": "PIRAEUS",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2367 2118 2226"
+  },
+  {
+    "mmsi": "210318000",
+    "vessel": "LEENI",
+    "imo": "9377092",
+    "callsign": "C4LT2",
+    "destination": "MONTOIR",
+    "lastReport": "24-02-2019 22:16 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "210326000",
+    "vessel": "ODIN R",
+    "imo": "8422723",
+    "callsign": "P3GX7",
+    "destination": "GRENAA",
+    "lastReport": "24-02-2019 22:30 UTC",
+    "currentLocation": "2063 2117 2174"
+  },
+  {
+    "mmsi": "210334000",
+    "vessel": "SEAWAY YUDIN",
+    "imo": "8219463",
+    "callsign": "5BYM2",
+    "destination": "LIMASSOL",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2654 2093 2843 2472 2522"
+  },
+  {
+    "mmsi": "210363000",
+    "vessel": "LIA M",
+    "imo": "9525625",
+    "callsign": "5BUC3",
+    "destination": "KW SWK",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2703"
+  },
+  {
+    "mmsi": "210369000",
+    "vessel": "EDT JANE",
+    "imo": "9491410",
+    "callsign": "5BXW3",
+    "destination": "EEMSHAVEN",
+    "lastReport": "24-02-2019 22:34 UTC",
+    "currentLocation": "2350"
+  },
+  {
+    "mmsi": "210375000",
+    "vessel": "OLZA",
+    "imo": "8919843",
+    "callsign": "5BFZ4",
+    "destination": "GBHUL",
+    "lastReport": "24-02-2019 22:34 UTC",
+    "currentLocation": "2477"
+  },
+  {
+    "mmsi": "210426000",
+    "vessel": "THETIS",
+    "imo": "8203141",
+    "callsign": "5BMW4",
+    "destination": "TURKU",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2388"
+  },
+  {
+    "mmsi": "210434000",
+    "vessel": "SYLVE",
+    "imo": "8906286",
+    "callsign": "P3ZM8",
+    "destination": "RUKGD",
+    "lastReport": "24-02-2019 22:32 UTC",
+    "currentLocation": "2219"
+  },
+  {
+    "mmsi": "210440000",
+    "vessel": "ARGONAUT1",
+    "imo": "8821826",
+    "callsign": "5BGB2",
+    "destination": "PAPENDRECHT",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2077 2642 2835 2241 2392"
+  },
+  {
+    "mmsi": "210445000",
+    "vessel": "KAPRIFOL",
+    "imo": "9200081",
+    "callsign": "5BXX2",
+    "destination": "AMSTERDAM",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2011 2164 2063 2117 2174"
+  },
+  {
+    "mmsi": "210459000",
+    "vessel": "RITA",
+    "imo": "9318931",
+    "callsign": "5BUV3",
+    "destination": "NOTAE",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2506 2221 2117 2063 2174"
+  },
+  {
+    "mmsi": "210474000",
+    "vessel": "SWE BULK",
+    "imo": "9044932",
+    "callsign": "C4FJ2",
+    "destination": "KALMAR",
+    "lastReport": "24-02-2019 22:21 UTC",
+    "currentLocation": ""
+  },
+  {
+    "mmsi": "210481000",
+    "vessel": "CMA CGM SAMBHAR",
+    "imo": "9295969",
+    "callsign": "5BND2",
+    "destination": "FRLEH",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2178 2093 2335 2428"
+  },
+  {
+    "mmsi": "210505000",
+    "vessel": "PENGALIA",
+    "imo": "9440588",
+    "callsign": "5BAP2",
+    "destination": "TILBURY",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2953 2843"
+  },
+  {
+    "mmsi": "210523000",
+    "vessel": "CAUSEWAY",
+    "imo": "9653197",
+    "callsign": "5BVB3",
+    "destination": "VLISSINGEN",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2185 2404 2515"
+  },
+  {
+    "mmsi": "210581000",
+    "vessel": "CAPE RACE",
+    "imo": "9601728",
+    "callsign": "5BRQ3",
+    "destination": "ES BCN",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2602"
+  },
+  {
+    "mmsi": "210582000",
+    "vessel": "POLAR DUKE",
+    "imo": "9378204",
+    "callsign": "5BJL2",
+    "destination": "ALESUND",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2430 2174 2117 2063"
+  },
+  {
+    "mmsi": "210594000",
+    "vessel": "ARIADNE",
+    "imo": "9413535",
+    "callsign": "5BSE4",
+    "destination": "SALAMIS",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2118 2367"
+  },
+  {
+    "mmsi": "210605000",
+    "vessel": "ATLANTIC COAST",
+    "imo": "9129469",
+    "callsign": "5BQZ3",
+    "destination": "NLRTM",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2262"
+  },
+  {
+    "mmsi": "210607000",
+    "vessel": "AMBER 1",
+    "imo": "9174713",
+    "callsign": "5BAR2",
+    "destination": "RU KGD",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2219"
+  },
+  {
+    "mmsi": "210620000",
+    "vessel": "NORMAND TITUS",
+    "imo": "9575632",
+    "callsign": "5BVT3",
+    "destination": "GREAT YARMOUTH",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2953"
+  },
+  {
+    "mmsi": "210638000",
+    "vessel": "PADEREWSKI",
+    "imo": "9731389",
+    "callsign": "5BMF4",
+    "destination": "PA CTB",
+    "lastReport": "24-02-2019 22:32 UTC",
+    "currentLocation": "2479"
+  },
+  {
+    "mmsi": "210688000",
+    "vessel": "AMAZONITH",
+    "imo": "9293478",
+    "callsign": "5BXB3",
+    "destination": "NL RTM FOR ORDER",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2347 2077 2276 2961 2224 2468 2086 2435"
+  },
+  {
+    "mmsi": "210727000",
+    "vessel": "SEA TIGER",
+    "imo": "9166376",
+    "callsign": "5BDQ3",
+    "destination": "LYNGDAL,NORWAY",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2117 2063 2174"
+  },
+  {
+    "mmsi": "210754000",
+    "vessel": "ATLANTIC ISLAND",
+    "imo": "9259044",
+    "callsign": "C4VM2",
+    "destination": "MACAS",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2205"
+  },
+  {
+    "mmsi": "210763000",
+    "vessel": "CRESTY",
+    "imo": "9637143",
+    "callsign": "5BZE3",
+    "destination": "QUEBEC",
+    "lastReport": "24-02-2019 22:27 UTC",
+    "currentLocation": "2627"
+  },
+  {
+    "mmsi": "210776000",
+    "vessel": "EDT HERCULES",
+    "imo": "9491422",
+    "callsign": "5BAM4",
+    "destination": "EMDEN",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2728"
+  },
+  {
+    "mmsi": "210853000",
+    "vessel": "KURLAND",
+    "imo": "9226803",
+    "callsign": "P3GW9",
+    "destination": "NQRRKQPING",
+    "lastReport": "24-02-2019 22:34 UTC",
+    "currentLocation": "2342"
+  },
+  {
+    "mmsi": "210894000",
+    "vessel": "JOLANTA",
+    "imo": "9148257",
+    "callsign": "5BAY2",
+    "destination": "TALLINN",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2811 2388 2179"
+  },
+  {
+    "mmsi": "210895000",
+    "vessel": "ANASA",
+    "imo": "9389215",
+    "callsign": "5BEL4",
+    "destination": "IN MDA",
+    "lastReport": "24-02-2019 22:29 UTC",
+    "currentLocation": "2649"
+  },
+  {
+    "mmsi": "210903000",
+    "vessel": "JSP SLIDUR",
+    "imo": "9354416",
+    "callsign": "5BLE2",
+    "destination": "NL RTM",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2961 2097 2086 2185 2435 2276 2468"
+  },
+  {
+    "mmsi": "210916000",
+    "vessel": "BUFFLEHEAD",
+    "imo": "9598294",
+    "callsign": "5BRB3",
+    "destination": "US MSY",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2951"
+  },
+  {
+    "mmsi": "210925000",
+    "vessel": "BALTIC FULMAR",
+    "imo": "9313204",
+    "callsign": "5BSL4",
+    "destination": "ESGIJ",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2469"
+  },
+  {
+    "mmsi": "210930000",
+    "vessel": "OSPREY",
+    "imo": "9700859",
+    "callsign": "5BAY4",
+    "destination": "UA ODS",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2401"
+  },
+  {
+    "mmsi": "210933000",
+    "vessel": "NICOLEMY",
+    "imo": "9613094",
+    "callsign": "5BAE4",
+    "destination": "FOS",
+    "lastReport": "24-02-2019 22:30 UTC",
+    "currentLocation": "2038"
+  },
+  {
+    "mmsi": "210943000",
+    "vessel": "MUSKY",
+    "imo": "9688855",
+    "callsign": "5BAW4",
+    "destination": "FI KTK",
+    "lastReport": "24-02-2019 22:34 UTC",
+    "currentLocation": "2049 2388"
+  },
+  {
+    "mmsi": "210959000",
+    "vessel": "GUADALUPE",
+    "imo": "9330941",
+    "callsign": "C4FR2",
+    "destination": "MXPGO",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2601"
+  },
+  {
+    "mmsi": "211002010",
+    "vessel": "ODIN 3",
+    "imo": "0",
+    "callsign": "",
+    "destination": "",
+    "lastReport": "24-02-2019 22:31 UTC",
+    "currentLocation": "2030 2436"
+  },
+  {
+    "mmsi": "211014528",
+    "vessel": "EMTE",
+    "imo": "0",
+    "callsign": "DA4528",
+    "destination": "",
+    "lastReport": "24-02-2019 22:35 UTC",
+    "currentLocation": "2167"
+  },
+  {
+    "mmsi": "211032980",
+    "vessel": "HT8",
+    "imo": "0",
+    "callsign": "DC2980",
+    "destination": "HAMBURG",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2126 2403 2738 2413 2577"
+  },
+  {
+    "mmsi": "211034927",
+    "vessel": "LUNA",
+    "imo": "0",
+    "callsign": "DC4927",
+    "destination": "HSK",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2590"
+  },
+  {
+    "mmsi": "211036232",
+    "vessel": "GABI R",
+    "imo": "0",
+    "callsign": "DC6232",
+    "destination": "SZCZECIN",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2043"
+  },
+  {
+    "mmsi": "211064779",
+    "vessel": "KALOCSA",
+    "imo": "0",
+    "callsign": "WRP",
+    "destination": "KM240",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2328"
+  },
+  {
+    "mmsi": "211087743",
+    "vessel": "BIRK.B",
+    "imo": "0",
+    "callsign": "",
+    "destination": "BERLIN",
+    "lastReport": "24-02-2019 22:36 UTC",
+    "currentLocation": "2914 2175 2398"
+  }
+]

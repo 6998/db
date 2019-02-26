@@ -2,10 +2,12 @@ const Crawler = require('crawler');
 const fs = require('fs');
 
 const baseUrl = 'http://www.aishub.net/vessels?&sort=mmsi';
-let currentIndex = 1;
+const MAX_PAGES = 200;
+let currentIndex = 100;
 
 const c = new Crawler({
   maxConnections: 10,
+  rateLimit: 20000,
 
   callback: function(error, res, done) {
     const rowsData = [];
@@ -25,18 +27,22 @@ const c = new Crawler({
           imo: $this.find('td:nth-child(3)').text(),
           callsign: $this.find('td:nth-child(4)').text(),
           destination: $this.find('td:nth-child(5)').text(),
-          lastReport: $this.find('td:nth-child(6)').text()
+          lastReport: $this.find('td:nth-child(6)').text(),
+          currentLocation: $this.find('td:nth-child(7)').text()
         });
       });
     }
 
-    if (currentIndex < 10) {
+
+    if (currentIndex < MAX_PAGES) {
       c.queue(`${baseUrl}&page=${currentIndex}`);
       currentIndex++;
     }
 
+    console.log('complete page', currentIndex);
+
     fs.writeFile(
-      `output/vessel-${currentIndex}.json`,
+      `output/vessel-${currentIndex - 1}.json`,
       JSON.stringify(rowsData),
       'utf8',
       done

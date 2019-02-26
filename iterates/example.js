@@ -1,14 +1,13 @@
-require('dotenv').config();
-const { Pool } = require('pg');
+require('dotenv').load({ path: '../.env' });
+const { Client } = require('pg');
 const fs = require('fs');
 const FILE_PATH = '../scrapper/output';
 const createFileName = fileIndex => `vessel-${fileIndex}.json`;
-const pool = new Pool();
+const client = new Client();
 
 const operateOnRow = async row => {
-  // console.log(row);
-  return await pool
-    .query('SELECT NOW()')
+  return await client
+    .query('SELECT NOW()') // TODO: insert a row to the table
     .then(response => console.log(response));
 };
 
@@ -40,9 +39,11 @@ const iterateOverAllRows = async () => {
   }
 };
 
-const initTable = async () => await pool.query('SELECT NOW()');
+const initTable = async () => await client.query('SELECT NOW()'); // TODO: create table
+initConnection = async () => await client.connect();
 
-initTable()
+initConnection()
+  .then(initTable)
   .then(responseFromInit => {
     console.log('responseFromInit', responseFromInit);
   })
