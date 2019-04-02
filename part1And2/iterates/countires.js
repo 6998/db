@@ -3,9 +3,10 @@ require('dotenv').load({ path: '../.env' });
 const { Client } = require('pg');
 
 const client = new Client({
-  user: 'barak',
-  host: 'localhost',
-  database: 'ships',
+  user: 'bb2762',
+  host: '34.73.21.127',
+  database: 'bb2762',
+  password: '5293',
   port: 5432
 });
 let countries;
