@@ -4,6 +4,7 @@ sshToServer=${username}@35.196.237.72
 
 frontEnd() {
     cd ../front-end && npm run build
+    ssh -t ${sshToServer} "rm -rf /home/${username}/front-end"
     scp -r ../front-end/build ${sshToServer}:/home/${username}/front-end
     ssh -t ${sshToServer} "sudo cp -r /home/${username}/front-end/* /usr/share/nginx/html"
 }
