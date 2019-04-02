@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-username=bn.barak
+username=$1
 sshToServer=${username}@35.196.237.72
 
 frontEnd() {
@@ -15,11 +15,11 @@ backEnd() {
    ssh -t ${sshToServer} "sudo systemctl restart backend"
 }
 
-if [ "$1" == "front" ]
+if [ "$2" == "front" ]
 then
     echo "Deploy Front End"
      frontEnd
-elif [ "$1" == "back" ]
+elif [ "$2" == "back" ]
 then
     echo "Deploy Back End"
     backEnd

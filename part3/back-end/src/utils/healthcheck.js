@@ -1,3 +1,11 @@
 import {_200} from './responses';
 
-export default (req, res) => _200({ req, res }, 'Healthy!');
+const { Client } = require('pg');
+
+
+export default async(req, res) => {
+	const client = new Client()
+	await client.connect();
+	const re = await client.query("SELECT NOW()")
+	_200({ req, res }, re);
+}

@@ -4,6 +4,6 @@ import routes from './lib/router';
 require('dotenv').config();
 
 initExpress(server)
-  // .then(initPostgress)
+  .then(initPostgress)
   .then(routes)
   .then(startServer);
