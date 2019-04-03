@@ -1,0 +1,26 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6998/db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6998/db/issues"
+  },
+  "homepage": "https://github.com/6998/db#readme",
+  "dependencies": {
+    "@epegzz/node-scraper": "^1.2.0",
+    "crawler": "^1.2.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "pg": "^7.8.1"
+  }
+}
