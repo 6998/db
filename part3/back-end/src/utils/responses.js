@@ -9,7 +9,6 @@ export default class Response {
     const line = `[${new Date()}] - ${this.req.baseUrl} - ${
       this.req.method
     } - ${this.res.statusCode}`;
-    console.log(line);
   }
 
   _200() {

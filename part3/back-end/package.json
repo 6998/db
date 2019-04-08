@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
     "express": "^4.16.4",
+    "lodash": "^4.17.11",
     "pg": "^7.9.0",
     "pg-native": "^3.0.0"
   },
