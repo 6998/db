@@ -6,8 +6,8 @@ export default (data, fields) => {
   ));
   const rows = data.map((row, index1) => (
     <tr key={index1}>
-      {Object.values(row).map((item, index2) => (
-        <td key={`${index1}_${index2}`}>{item}</td>
+      {Object.values(fields).map((field, index2) => (
+        <td key={`${index1}_${index2}`}>{row[field.name]}</td>
       ))}
     </tr>
   ));
