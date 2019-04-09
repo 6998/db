@@ -5,7 +5,10 @@ textarea {
   display: block;
 }
 
-.inline, .inline:active, .inline:hover, .inline:focus {
+.inline,
+.inline:active,
+.inline:hover,
+.inline:focus {
   width: 70px;
   display: inline-block;
   margin: 0 10px;
@@ -50,8 +53,10 @@ tr:nth-child(even) {
 }
 
 th {
-  padding: 0 20px;
+  padding: 10px 20px;
   text-align: center;
+  background: #017bfe5c;
+  color: white;
 }
 
 td {
