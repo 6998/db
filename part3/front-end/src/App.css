@@ -18,6 +18,7 @@ textarea {
   -webkit-appearance: none;
   box-shadow: none;
   text-align: center;
+  padding-left: 0;
 }
 
 .inline.long {
