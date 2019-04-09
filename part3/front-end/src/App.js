@@ -6,6 +6,8 @@ import Query1 from './Query1';
 import Query2 from './Query2';
 import Query3 from './Query3';
 import Query4 from './Query4';
+import baseUrl from "./baseUrl";
+console.log(process.env)
 
 class App extends Component {
   constructor(props) {
@@ -27,30 +29,30 @@ class App extends Component {
 
   loadCountries = () => {
     axios
-      .get('http://localhost:8000/api/list-of-countries')
+      .get(baseUrl + '/list-of-countries')
       .then(response => this.setState({ listOfCountries: response.data }));
   };
 
   loadPorts = () => {
     axios
-      .get('http://localhost:8000/api/list-of-ports')
+      .get(baseUrl + '/list-of-ports')
       .then(response => this.setState({ listOfPorts: response.data }));
   };
 
   loadCompanies = () => {
     axios
-      .get('http://localhost:8000/api/list-of-companies')
+      .get(baseUrl + '/list-of-companies')
       .then(response => this.setState({ listOfCompanies: response.data }));
   };
 
   loadTrips = () => {
     axios
-      .get('http://localhost:8000/api/list-of-trips')
+      .get(baseUrl + '/list-of-trips')
       .then(response => this.setState({ listOfTrips: response.data }));
   };
 
   requestData = body => {
-    axios.post('http://localhost:8000/api/queries', body).then(response =>
+    axios.post(baseUrl + '/queries', body).then(response =>
       this.setState({
         fields: response.data.fields,
         data: response.data.rows
@@ -60,7 +62,7 @@ class App extends Component {
 
   loadQuery() {
     axios
-      .post('http://localhost:8000/api/query', { query: 'SELECT * FROM trip' })
+      .post(baseUrl + '/query', { query: 'SELECT * FROM trip' })
       .then(response =>
         this.setState({
           fields: response.data.fields,
