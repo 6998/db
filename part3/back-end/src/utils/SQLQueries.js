@@ -34,7 +34,7 @@ const b =
   '  limit 3)';
 
 const c =
-  "SELECT *	FROM trip Inner join ship_works_for ON trip.ship_id=ship_works_for.ship_id Where to_country=$1";
+  "SELECT"+"trip_id"+ 	"FROM trip Inner join ship_works_for ON trip.ship_id=ship_works_for.ship_id Where to_country=$1";
 
 const d =
   '' +
