@@ -11,8 +11,8 @@
  2. `./deploy <username> front|back`
  
  Example: 
- `./deploy bn.barak front` will deploy the front-end by Barak
- `./deploy emily.cassell front` will deploy the back-end for by Emily
+ `./deploy.sh bn.barak front` will deploy the front-end by Barak
+ `./deploy.sh emily.cassell front` will deploy the back-end for by Emily
  
  the username is because of the different ssh access.
  
