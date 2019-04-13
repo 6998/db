@@ -17,24 +17,16 @@ const a =
   '  )';
 
 const b =
-  'SELECT DISTINCT' +
-  '  c.name ' +
-  'FROM ' +
-  '  ship_works_for as s ' +
-  'INNER JOIN ' +
-  '  company as c on s.company_id = $1 ' +
-  'WHERE s.company_id IN (' +
-  '  SELECT ' +
-  '    s.company_id' +
-  '  FROM' +
-  '     ship_works_for as s ' +
-  '  group by ' +
-  '    s.company_id' +
-  '  order by count(*) desc ' +
-  '  limit 3)';
+  "ELECT DISTINCT" +
+  "s.ship_name"+
+"FROM"+ 
+  +"ship_works_for as s"+
+"INNER JOIN"+ 
+  "company as c on s.company_id = c.company_id"+
+"WHERE c.name = $1"
 
 const c =
-  "SELECT *	FROM trip Inner join ship_works_for ON trip.ship_id=ship_works_for.ship_id Where to_country=$1";
+  "SELECT"+"trip_id"+ 	"FROM trip Inner join ship_works_for ON trip.ship_id=ship_works_for.ship_id Where to_country=$1";
 
 const d =
   '' +
